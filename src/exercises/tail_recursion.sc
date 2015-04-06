@@ -1,4 +1,4 @@
-package greeter
+package exercises
 
 object tail_recursion {
   def factorial(n: Int): Int = {

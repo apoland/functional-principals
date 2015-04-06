@@ -1,4 +1,4 @@
-package greeter
+package exercises
 
 object Hello extends App {
 

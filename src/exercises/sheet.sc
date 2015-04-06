@@ -1,4 +1,4 @@
-package greeter
+package exercises
 
 object sheet {
   1+2                                             //> res0: Int(3) = 3
