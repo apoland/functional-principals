@@ -7,4 +7,6 @@ object sheet {
   increase(x)                                     //> res0: Int = 2
   increase(x)                                     //> res1: Int = 2
   
+  
+  
 }
